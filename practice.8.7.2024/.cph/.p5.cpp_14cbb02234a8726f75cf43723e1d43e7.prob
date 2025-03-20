@@ -1,0 +1,1 @@
+{"name":"Local: p5","url":"e:\\semester 2\\data structure\\practice.8.7.2024\\p5.cpp","tests":[{"id":1720466189142,"input":"1 5 6 8 9 -1","output":"YES"},{"id":1720466209787,"input":"2 4 6 5 8 4 -1","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\semester 2\\data structure\\practice.8.7.2024\\p5.cpp","group":"local","local":true}
